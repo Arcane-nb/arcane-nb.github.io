@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
+ <title>Arcane World | A minimal, responsive</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-09-19T22:31:46+09:00</updated>
+ <updated>2017-09-19T22:44:52+09:00</updated>
  <author>
-   <name>The Review Index</name>
-   <uri>https://thereviewindex.com</uri>
-   <email>dyutibarma@gmail.com</email>
+   <name>Arcane-nb</name>
+   <uri>https://arcane-nb.github.io</uri>
+   <email>arcane-nb@gmail.com</email>
  </author>
 
  
