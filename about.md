@@ -1,33 +1,37 @@
 ---
 layout: page
-title: About Monochrome
-description: This page describes monochrome.
+title: Who am I?
+description: This page describes me.
 ---
 ## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+19살. 한국디지털미디어고등학교 해킹방어과 재학중. 고3의 늪에 빠져 있음. 탈출 얼마 안남음.
 
-## Features
+### Activity
+- 감성을 전달하다,SendU 안드로이드 애플리케이션 담당
+- JA COY 국내대회 우승. 국제대회 출전 (일본)
+- 르호봇 론치컵 최우수상
+- 전국비즈쿨페스티벌 최우수상
+- 비즈쿨 창업동아리 우수학생
+- 교내 창의 IT 공모전 은상
+- 교내 IT 소양 인증제 최초 그랜드마스터 달성
+- D3S Hackathon 디미고 운영진
+- 설리번 프로젝트 "덕질을 위한 펜페이지 만들기" 팀장
+- 단국대 집현전 해커톤 / 융합 SW 해커톤 등 해커톤 경험 있음
+- 제 7회 KSCY 연구 계획 트랙 참여
+- 제 8회 KSCY 사무국 참여 (TaskForce)
+- [db.kscy.org](db.kscy.org) 개발진
 
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
+### Main Part
+- Angular2
+- Java
 
-### Setup
+### Interest
+- 웹 프레임워크 (Vue.js / Angular / React)
+- 코틀린
+- 해커톤을 비롯한 다양한 활동들.
 
-Monochrome may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/thereviewindex/monochrome/archive/master.zip).
+### Goal
+사회적 문제를 해결하는 소프트웨어 엔지니어
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/monochrome/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Monochrome in the root. 
-
-
-
-For further details on Monochrome, please visit the [repository on Github](https://github.com/thereviewindex/monochrome/).
-
-![Monochrome](img/monochrome01.png "monochrome")
-
-
-
+## Thanks To
+[Monochrome](https://github.com/thereviewindex/monochrome/)

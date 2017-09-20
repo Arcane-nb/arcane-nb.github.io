@@ -1,5 +1,5 @@
 # Site settings
-title: Arcane World | A minimal, responsive
+title: 신비로운 기술 블로그 | 개발 놀이터
 description: "Arcane's Tech Blog, built with Jekyll."
 url: "http://arcane-nb.github.io/"
 author:
@@ -13,7 +13,7 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 6
+paginate: 7
 paginate_path: /page:num/
 
 # Default values
